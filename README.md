@@ -26,7 +26,7 @@ I love to build web applications with php and Js mostly with laravel and vue. I 
   "languages": ["php", "Javascript", "Bash"],
   "frameworks/libraries": {
     "backend": ["Laravel", "Lumen", "nodejs"],
-    "frontend": ["Vuejs", "React","bootstarp", "Tailwind"], 
+    "frontend": ["Vuejs", "React","Bootstrap", "Tailwind"], 
   },
   "database": ["Mysql"],
   "misc": ["Docker", "Puppeteer"],
