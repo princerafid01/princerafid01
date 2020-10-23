@@ -1,4 +1,5 @@
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=princerafid01&&show_icons=true&theme=tokyonight&count_private=true" alt="Rafid's Github Stats"/>](https://github.com/princerafid01)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princerafid01&layout=compact)]()
 
 # Hi there! I'm Rafid 👋
 
