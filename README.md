@@ -15,8 +15,8 @@ I love to build web applications with php and Js mostly with laravel and vue. I 
 
 - 🔭 <b>Currently working on:</b> Laravel , Vuejs, React
 - 🌱 <b>Getting better at:</b> Javascript, php
-- 🤔 <b>Exploring:</b> Python, Flask, nodejs, Express, Puppeteer
-- ⚗️ <b>Experimenting on:</b> Automation with puppeteer
+- 🤔 <b>Exploring:</b> PHP 8, Laravel, React, Vue, nodejs, Express, Puppeteer
+- ⚗️ <b>Experimenting on:</b> How to improve performance via php 8
 - ⚡ <b>Fun fact: </b> I am a business student who is amazed by the power of technology 😄
 ### My Stacks
 
