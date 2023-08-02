@@ -6,9 +6,8 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=222244&labelColor=000000&logo=linkedin&logoColor=f5f7fe)](https://www.linkedin.com/in/mahmud-rafid/)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=222244&labelColor=000000&logo=gmail&logoColor=f5f7fe)](mailto:mahmudrafid02@gmail.com?subject=From%20GitHub&&body=Hi,%20there.%20Found%20you%20on%20GitHub!%20Let's%20talk%20about...)
 
-> Undergraduate student @ University of Dhaka <br />
 > Full-stack software engineer <br />
-> OpenSource enthusiast, Autamation enthusiast
+> OpenSource enthusiast, Automation enthusiast
 
 I love to build web applications with php and Js mostly with laravel and vue. I also work on full javascript ecosystem like MERN stack as well. I love contributing to open-source, or making monotonous things automated. I am trying to contribute in  local open-source community like [DevSonket](https://devsonket.com) and much more.
 
